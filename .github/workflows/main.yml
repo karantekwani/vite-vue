@@ -1,0 +1,22 @@
+
+name: CI
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Build And Deploy
+        uses: Azure/static-web-apps-deploy@v1
+        with:
+          azure_static_web_apps_api_token: "7e2854c8a3269fffdcf854e8393fd175ffa75640537a94fbeb5a9fe1621d36bd1-d019a868-fa6f-4490-9c3a-14829a23ec2101072004"
+
+          action: 'upload'
+          app_location: '/'
+          output_location: 'dist'
+          app_build_command: 'npm run build'
