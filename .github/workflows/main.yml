@@ -10,7 +10,7 @@
           - name: Build And Deploy
             uses: Azure/static-web-apps-deploy@v1
             with:
-              azure_static_web_apps_api_token: "bb978129da589268f84a799d9bf5b937c6a74d1050a09c49c0092ad5b9ceef0d1-343d9d9c-78c9-47f5-8aad-57477399e68601072018"
+              azure_static_web_apps_api_token: "4b29a14670d573a05956a5951bc2c8877cfb0ca299018cb0a71bd4e1d4e834b61-75f922a2-1e0c-4574-bc20-1f299a002a8501072025"
 
               action: 'upload'
               app_location: '/'
