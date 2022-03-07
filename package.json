@@ -5,7 +5,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy":"npm install && npm run build && node app.js",
+    "webApp":"npm install && npm run build && cd dist && rm -rf payload"
   },
   "dependencies": {
     "vue": "^3.2.25"
