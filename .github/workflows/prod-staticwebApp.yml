@@ -1,5 +1,5 @@
 
-    name: CI
+    name: prod-staticwebApp
     on:
       workflow_dispatch:
     jobs:
