@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    { 
+      "source": "/karan",
+      "destination": "https://github.com/vercel/vercel", 
+      "statusCode": 301
+    }
+  ]
+}
