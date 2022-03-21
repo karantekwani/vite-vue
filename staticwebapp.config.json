@@ -1,0 +1,629 @@
+{
+  "routes": [
+    {
+      "route": "/debt-collection-software",
+      "redirect": "/case-studies/debt-collection-software",
+      "statusCode": 301
+    },
+    {
+      "route": "/drupa_2016.php",
+      "redirect": "/events/drupa-2016",
+      "statusCode": 301
+    },
+    {
+      "route": "/hktdc_2016.php",
+      "redirect": "/events/hktdc-2016",
+      "statusCode": 301
+    },
+    {
+      "route": "/comex_2016.php",
+      "redirect": "/events/comex-2016",
+      "statusCode": 301
+    },
+    {
+      "route": "/newsletter-jan14.php",
+      "redirect": "/company-news",
+      "statusCode": 301
+    },
+    {
+      "route": "/newsletters-jun13.php",
+      "redirect": "/company-news",
+      "statusCode": 301
+    },
+    {
+      "route": "/newsletters-feb13.php",
+      "redirect": "/company-news",
+      "statusCode": 301
+    },
+    {
+      "route": "/newsletter_dec12.php",
+      "redirect": "/company-news",
+      "statusCode": 301
+    },
+    {
+      "route": "/newsletters-oct12.php",
+      "redirect": "/company-news",
+      "statusCode": 301
+    },
+    {
+      "route": "/newsletter_sept12.php",
+      "redirect": "/company-news",
+      "statusCode": 301
+    },
+    {
+      "route": "/newsletter_july12.php",
+      "redirect": "/company-news",
+      "statusCode": 301
+    },
+    {
+      "route": "/comex_2015.php",
+      "redirect": "/events/comex-2015",
+      "statusCode": 301
+    },
+    {
+      "route": "/graph_expo_2014.php",
+      "redirect": "/events/graph-expo-2014",
+      "statusCode": 301
+    },
+    {
+      "route": "/print_13.php",
+      "redirect": "/events/print-13",
+      "statusCode": 301
+    },
+    {
+      "route": "/hktdc_2013.php",
+      "redirect": "/events/hktdc-2013",
+      "statusCode": 301
+    },
+    {
+      "route": "/printpack_2013.php",
+      "redirect": "/events/printpack-2013",
+      "statusCode": 301
+    },
+    {
+      "route": "/graph_expo_2012.php",
+      "redirect": "/events/graph-expo-2012",
+      "statusCode": 301
+    },
+    {
+      "route": "/drupa_2012.php",
+      "redirect": "/events/drupa-2012",
+      "statusCode": 301
+    },
+    {
+      "route": "/cebit_2012.php",
+      "redirect": "/events/cebit-2012",
+      "statusCode": 301
+    },
+    {
+      "route": "/graph_expo_2011.php",
+      "redirect": "/events/graph-expo-2011",
+      "statusCode": 301
+    },
+    {
+      "route": "/cebit_2011.php",
+      "redirect": "/events/cebit-2011",
+      "statusCode": 301
+    },
+    {
+      "route": "/indiasoft_2011.php",
+      "redirect": "/events/indiasoft-2011",
+      "statusCode": 301
+    },
+    {
+      "route": "/printpack_2011.php",
+      "redirect": "/events/printpack-2011",
+      "statusCode": 301
+    },
+    {
+      "route": "/cebit_2010.php",
+      "redirect": "/events/cebit-2010",
+      "statusCode": 301
+    },
+    {
+      "route": "/onprintshop-to-exhibit-at-graph-expo-for-the-4th-consecutive-year.php",
+      "redirect": "/company-news/onprintshop-to-exhibit-at-graph-expo-for-the-4th-consecutive-year",
+      "statusCode": 301
+    },
+    {
+      "route": "/ricoh-canada-showcasing-onprintshop-at-graphics-canada-for-the-second-consecutive-year.php",
+      "redirect": "/company-news/ricoh-canada-showcasing-onprintshop-at-graphics-canada-for-the-second-consecutive-year",
+      "statusCode": 301
+    },
+    {
+      "route": "/galaxy-automation-participates-in-ipmex-2013-presents-onprintshop-web2print.php",
+      "redirect": "/company-news/galaxy-automation-participates-in-ipmex-2013-presents-onprintshop-web2print",
+      "statusCode": 301
+    },
+    {
+      "route": "/onprintshop-completes-third-consecutive-participation-at-print-13-successfully.php",
+      "redirect": "/company-news/onprintshop-completes-third-consecutive-participation-at-print-13-successfully",
+      "statusCode": 301
+    },
+    {
+      "route": "/onprintshop-participates-in-print-2013-for-third-consecutive-year.php",
+      "redirect": "/company-news/onprintshop-participates-in-print-2013-for-third-consecutive-year",
+      "statusCode": 301
+    },
+    {
+      "route": "/ricoh-mexicana-onprintshop-web-to-print-announce-partnership.php",
+      "redirect": "/company-news/ricoh-mexicana-onprintshop-web-to-print-announce-partnership",
+      "statusCode": 301
+    },
+    {
+      "route": "/onprintshop-sponsors-web-to-print-conference-in-denmark.php",
+      "redirect": "/company-news/onprintshop-sponsors-web-to-print-conference-in-denmark",
+      "statusCode": 301
+    },
+    {
+      "route": "/onprintshop-and-xerox-russia-announce-reseller-partnership-to-promote-web2print-solutions.php",
+      "redirect": "/company-news/nprintshop-and-xerox-russia-announce-reseller-partnership-to-promote-web2print-solutions",
+      "statusCode": 301
+    },
+    {
+      "route": "/onprintshop-offers-to-integrate-its-online-designer-tool-in-existing-e-commerce-websites.php",
+      "redirect": "/company-news/onprintshop-offers-to-integrate-its-online-designer-tool-in-existing-e-commerce-websites",
+      "statusCode": 301
+    },
+    {
+      "route": "/onprintshop-offers-online-trade-printer-solution.php",
+      "redirect": "/company-news/onprintshop-offers-online-trade-printer-solution",
+      "statusCode": 301
+    },
+    {
+      "route": "/radix-participates-in-hktdc-international-ict-expo-at-hong-kong.php",
+      "redirect": "/company-news/radix-participates-in-hktdc-international-ict-expo-at-hong-kong",
+      "statusCode": 301
+    },
+    {
+      "route": "/radix-becomes-kentico-certified-partner.php",
+      "redirect": "/company-news/radix-becomes-kentico-certified-partner",
+      "statusCode": 301
+    },
+    {
+      "route": "/onprintshop-arranges-interactive-session-on-opportunities-for-indian-printers-in-european-market-by-mr-morten-reitoft-print-provider.php",
+      "redirect": "/company-news/onprintshop-arranges-interactive-session-on-opportunities-for-indian-printers-in-european-market-by-mr-morten-reitoft-print-provider",
+      "statusCode": 301
+    },
+    {
+      "route": "/onprintshop-web2print-to-showcase-at-printpack-india-2013.php",
+      "redirect": "/company-news/onprintshop-web2print-to-showcase-at-printpack-india-2013",
+      "statusCode": 301
+    },
+    {
+      "route": "/onprintshop-returns-to-graph-expo-2012-with-advanced-web2print-capabilities.php",
+      "redirect": "/company-news/onprintshop-returns-to-graph-expo-2012-with-advanced-web2print-capabilities",
+      "statusCode": 301
+    },
+    {
+      "route": "/radixweb-declared-nopcommerce-partner.php",
+      "redirect": "/company-news/radixweb-declared-nopcommerce-partner",
+      "statusCode": 301
+    },
+    {
+      "route": "/radix-wraps-up-successful-cebit-australia-2012.php",
+      "redirect": "/company-news/radix-wraps-up-successful-cebit-australia-2012",
+      "statusCode": 301
+    },
+    {
+      "route": "/onprintshop-makes-successful-debut-at-cebit-australia.php",
+      "redirect": "/company-news/onprintshop-makes-successful-debut-at-cebit-australia",
+      "statusCode": 301
+    },
+    {
+      "route": "/onprintshop-ends-drupa-on-a-high-note.php",
+      "redirect": "/company-news/onprintshop-ends-drupa-on-a-high-note",
+      "statusCode": 301
+    },
+    {
+      "route": "/get-complementary-tickets-to-cebit-australia-with-radixweb.php",
+      "redirect": "/company-news/get-complementary-tickets-to-cebit-australia-with-radixweb",
+      "statusCode": 301
+    },
+    {
+      "route": "/onprintshop-web-to-print-solution-to-showcase-at-cebit-australia-2012.php",
+      "redirect": "/company-news/onprintshop-web-to-print-solution-to-showcase-at-cebit-australia-2012",
+      "statusCode": 301
+    },
+    {
+      "route": "/radix-to-make-debut-appearance-at-cebit-australia-2012.php",
+      "redirect": "/company-news/radix-to-make-debut-appearance-at-cebit-australia-2012",
+      "statusCode": 301
+    },
+    {
+      "route": "/radix-becomes-sitefinity-partner.php",
+      "redirect": "/company-news/radix-becomes-sitefinity-partner",
+      "statusCode": 301
+    },
+    {
+      "route": "/radix-attains-kentico-partner-status.php",
+      "redirect": "/company-news/radix-attains-kentico-partner-status",
+      "statusCode": 301
+    },
+    {
+      "route": "/onprintshop-goes-to-drupa-2012.php",
+      "redirect": "/company-news/onprintshop-goes-to-drupa-2012",
+      "statusCode": 301
+    },
+    {
+      "route": "/onprintshop-announces-partnership-with-ricoh-canada-inc.php",
+      "redirect": "/company-news/onprintshop-announces-partnership-with-ricoh-canada-inc",
+      "statusCode": 301
+    },
+    {
+      "route": "/onprintshop-has-third-successful-run-at-cebit-2012.php",
+      "redirect": "/company-news/onprintshop-has-third-successful-run-at-cebit-2012",
+      "statusCode": 301
+    },
+    {
+      "route": "/after-cebit-2012.php",
+      "redirect": "/company-news/after-cebit-2012",
+      "statusCode": 301
+    },
+    {
+      "route": "/radix-develops-personalsms-mobile-app.php",
+      "redirect": "/company-news/radix-develops-personalsms-mobile-app",
+      "statusCode": 301
+    },
+    {
+      "route": "/radix-is-offering-complementary-passes-to-cebit-2012.php",
+      "redirect": "/company-news/radix-is-offering-complementary-passes-to-cebit-2012",
+      "statusCode": 301
+    },
+    {
+      "route": "/radix-releases-matchme-memory-game-for-iphone-android.php",
+      "redirect": "/company-news/radix-releases-matchme-memory-game-for-iphone-android",
+      "statusCode": 301
+    },
+    {
+      "route": "/onprintshop-web-to-print-solution-cebit-2012.php",
+      "redirect": "/company-news/onprintshop-web-to-print-solution-cebit-2012",
+      "statusCode": 301
+    },
+    {
+      "route": "/radixweb-prepares-for-cebit-2012.php",
+      "redirect": "/company-news/radixweb-prepares-for-cebit-2012",
+      "statusCode": 301
+    },
+    {
+      "route": "/radix-releases-kites-iphone-app.php",
+      "redirect": "/company-news/radix-releases-kites-iphone-app",
+      "statusCode": 301
+    },
+    {
+      "route": "/onprintshop-dazzles-on-debut-at-graph-expo-2011.php",
+      "redirect": "/company-news/onprintshop-dazzles-on-debut-at-graph-expo-2011",
+      "statusCode": 301
+    },
+    {
+      "route": "/onprintshop-to-present-corporate-module-and-upgraded-designer-studio-at-graph-expo.php",
+      "redirect": "/company-news/onprintshop-to-present-corporate-module-and-upgraded-designer-studio-at-graph-expo",
+      "statusCode": 301
+    },
+    {
+      "route": "/radix-completes-11-glorious-years-of-successful-it-outsourcing.php",
+      "redirect": "/company-news/radix-completes-11-glorious-years-of-successful-it-outsourcing",
+      "statusCode": 301
+    },
+    {
+      "route": "/onprintshop-web-to-print-storefront-to-participate-in-graph-expo-2011.php",
+      "redirect": "/company-news/onprintshop-web-to-print-storefront-to-participate-in-graph-expo-2011",
+      "statusCode": 301
+    },
+    {
+      "route": "/after-cebit-2011.php",
+      "redirect": "/company-news/after-cebit-2011",
+      "statusCode": 301
+    },
+    {
+      "route": "/radix-sets-the-tempo-for-cebit-2011-with-magnified-services.php",
+      "redirect": "/company-news/radix-sets-the-tempo-for-cebit-2011-with-magnified-services",
+      "statusCode": 301
+    },
+    {
+      "route": "/onprintshop-will-set-the-tempo-for-print-industry-at-cebit-2011.php",
+      "redirect": "/company-news/onprintshop-will-set-the-tempo-for-print-industry-at-cebit-2011",
+      "statusCode": 301
+    },
+    {
+      "route": "/onprintshop-embraced-wholeheartedly-at-printpack-2011.php",
+      "redirect": "/company-news/onprintshop-embraced-wholeheartedly-at-printpack-2011",
+      "statusCode": 301
+    },
+    {
+      "route": "/radix-to-participate-in-global-trade-fair.php",
+      "redirect": "/company-news/radix-to-participate-in-global-trade-fair",
+      "statusCode": 301
+    },
+    {
+      "route": "/print-industry-goes-green-with-onprintshop.php",
+      "redirect": "/company-news/print-industry-goes-green-with-onprintshop",
+      "statusCode": 301
+    },
+    {
+      "route": "/radix-signs-up-for-global-sourcing-forum-expo.php",
+      "redirect": "/company-news/radix-signs-up-for-global-sourcing-forum-expo",
+      "statusCode": 301
+    },
+    {
+      "route": "/radixweb-receives-iso-90012008-certification.php",
+      "redirect": "/company-news/radixweb-receives-iso-90012008-certification",
+      "statusCode": 301
+    },
+    {
+      "route": "/radixweb-achieves-microsoft-gold-certified-partner-status.php",
+      "redirect": "/company-news/radixweb-achieves-microsoft-gold-certified-partner-status",
+      "statusCode": 301
+    },
+    {
+      "route": "/events.php",
+      "redirect": "/events",
+      "statusCode": 301
+    },
+    {
+      "route": "/news.php",
+      "redirect": "/company-news",
+      "statusCode": 301
+    },
+    {
+      "route": "/newsletters.php",
+      "redirect": "/company-news",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/author/jaydeep-patadiya/",
+      "redirect": "/author/jaydeep-patadiya",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/author/maitray-gadhavi/",
+      "redirect": "/author/maitray-gadhavi",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/author/sarrah-pitaliya/",
+      "redirect": "/author/sarrah-pitaliya",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/author/pratik-mistry/",
+      "redirect": "/author/pratik-mistry",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/author/varix-patel/",
+      "redirect": "/author/varix-patel",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/author/zalak-shah/",
+      "redirect": "/author/zalak-shah",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/author/dharmesh-acharya/",
+      "redirect": "/author/dharmesh-acharya",
+      "statusCode": 301
+    },
+    {
+      "route": "/news/",
+      "redirect": "/company-news",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/select-outsourcing-company",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/enterprise-application-development-radix-mvc-architecture",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/business-intelligence-application-development-2",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/open-route-technologies-enterprise-solutions",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/application-development-radix-symfony2",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/iphone-5s-5c-introduction-exciting-specifications",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/iphone-application-development-service-radix",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/asp-net-mvc-development-radix",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/radix-offers-dotnetnuke-development-service",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/m-commerce-ready-hit-ecommerce-market-2015",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/principles-outsourcing-radix",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/orchard-cms-development-radix",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/social-management",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/cloud-based",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/radix-launches-website-mobile-application-development-service",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/kentico-development-services-radix",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/virtualization-optimize-reroutes",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/professional-seo-services-offered-radix",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/enterprise-information-management",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/vulnerability-management-cloud",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/phonegap-cross-platform-mobile-app-development-radix",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/sitefinity-application-development",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/travel-booking-solution",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/qr-codes-generation-business-tool",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/rise-mobile-web",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/radix-and-sharepoint-exploring-boundaries-enterprise-systems",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/supply-chain-management",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/commercial-shelf-solutions",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/emerging-technologies-rias-2",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/enterprise-social-network-solution",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/application-reengineering",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/current-opening/react-native-developer",
+      "redirect": "/current-openings/react-native-developer",
+      "statusCode": 301
+    },
+    {
+      "route": "/current-opening/technical-lead-php-javascript",
+      "redirect": "/current-openings/technical-lead-php-javascript",
+      "statusCode": 301
+    },
+    {
+      "route": "/opening/software-engineer-net",
+      "redirect": "/current-openings/software-engineer-net",
+      "statusCode": 301
+    },
+    {
+      "route": "/opening/senior-video-editor",
+      "redirect": "/current-openings/senior-video-editor",
+      "statusCode": 301
+    },
+    {
+      "route": "/current-opening/senior-software-engineer-system",
+      "redirect": "/current-openings/senior-software-engineer-system",
+      "statusCode": 301
+    },
+    {
+      "route": "/insights/uncategorized",
+      "redirect": "/insights",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/technology-news-capsules-season-6",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/technology-news-capsules-season-5",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/technology-news-capsules-season-4",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/technology-news-capsules-season-3",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/technology-news-capsules-season-2",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/feel-the-magic-of-new-we",
+      "redirect": "/blog",
+      "statusCode": 301
+    }
+  ]
+}
