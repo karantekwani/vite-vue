@@ -491,7 +491,7 @@
       "statusCode": 301
     },
     {
-      "route": "/blog/virtualization-optimize-reroutes",
+      "route": "/blog/virtualization-optimize-resources",
       "redirect": "/blog",
       "statusCode": 301
     },
@@ -563,6 +563,841 @@
     {
       "route": "/blog/application-reengineering",
       "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/hire-dotnet-developers",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/xii-commandments-successful-outsourcing",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/mobile-ecm",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/unified-communications",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/sharepoint-collaboration-convergence",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/augmented-reality-journey",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/web-print-waste-management",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/technology-change-management",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/open-innovation-aha",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/5-sins-social-media-marketing",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/word-mouth-marketing",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/social-analytics",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/mobile-apps-2011",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/saas-governance",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/resurrection",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/agile-development",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/c",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/application-trends",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/innovation-management",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/bi-applications-in-cloud",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/good-times-on-cloud",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/data-warehousing",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/it-governance",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/it-portfolio-management",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/it-services-management",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/it-services-management",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/10-advanced-php-tips-to-improve-your-programming",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/web-to-print-lot-more-than-you-think",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/offshore-outsourcing-in-india",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/web-to-print-a-fine-solution-for-online-ordering-print-procurement",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/web-to-print-a-long-term-cost-saving-ready-made-solution",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/find-an-innovative-way-to-manage-print-procurement",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/latest-search-engine-market-share",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/ajax-technology-for-web-applications",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/are-you-looking-for-low-cost-print-management-solutions",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/web-to-print-brings-a-better-tomorrow",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/technology-news-capsules-season-1",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/whats-new-in-nopcommerce-3-8",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/running-web-cms-in-cloud-a-knocking-move",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/are-you-quick-enough-to-quote-a-custom-printing-inquiry",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/kentico-9-key-takeaways-for-online-marketers",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/does-your-hrm-system-really-automates-key-modules-part-ii",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/does-your-hrm-system-really-automates-key-modules-part-i",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/a-wakeup-call-to-streamline-print-operations-using-right-technology-mix",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/qualities-of-effective-projectprogram-managers",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/mobile-apps-development-trends-2017-fawn-forever",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/dos-donts-project-management",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/web-application-development-outsourcing",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/strategy-planning-for-outsourcing",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/opening/content-writer-ops",
+      "redirect": "/current-openings/content-writer-ops",
+      "statusCode": 301
+    },
+    {
+      "route": "/opening/content-marketing-specialist",
+      "redirect": "/current-openings/content-marketing-specialist",
+      "statusCode": 301
+    },
+    {
+      "route": "/opening/sr-graphics-designer-creative-arts",
+      "redirect": "/current-openings/sr-graphics-designer-creative-arts",
+      "statusCode": 301
+    },
+    {
+      "route": "/opening/software-engineer-nodejs",
+      "redirect": "/current-openings/software-engineer-nodejs",
+      "statusCode": 301
+    },
+    {
+      "route": "/opening/trainee-software-engineer-net-php-qa",
+      "redirect": "/current-openings/trainee-software-engineer-net-php-qa",
+      "statusCode": 301
+    },
+    {
+      "route": "/opening/senior-business-development-executive-sales",
+      "redirect": "/current-openings/senior-business-development-executive-sales",
+      "statusCode": 301
+    },
+    {
+      "route": "/opening/sr-software-engineer-php",
+      "redirect": "/current-openings/sr-software-engineer-php",
+      "statusCode": 301
+    },
+    {
+      "route": "/opening/software-engineer-php",
+      "redirect": "/current-openings/software-engineer-php",
+      "statusCode": 301
+    },
+    {
+      "route": "/opening/business-development-executive",
+      "redirect": "/current-openings/business-development-executive",
+      "statusCode": 301
+    },
+    {
+      "route": "/opening/software-analyst-dotnet",
+      "redirect": "/current-openings/software-analyst-dotnet",
+      "statusCode": 301
+    },
+    {
+      "route": "/opening/senior-software-engineer-dotnet",
+      "redirect": "/current-openings/senior-software-engineer-dotnet",
+      "statusCode": 301
+    },
+    {
+      "route": "/opening/web-designer",
+      "redirect": "/current-openings/web-designer",
+      "statusCode": 301
+    },
+    {
+      "route": "/career_openings.php",
+      "redirect": "/current-openings",
+      "statusCode": 301
+    },
+    {
+      "route": "/contact.php",
+      "redirect": "/contact-us",
+      "statusCode": 301
+    },
+    {
+      "route": "/terms_of_use.php",
+      "redirect": "/terms-of-use",
+      "statusCode": 301
+    },
+    {
+      "route": "/privacy_policy.php",
+      "redirect": "/privacy-policy",
+      "statusCode": 301
+    },
+    {
+      "route": "/site_map.php",
+      "redirect": "/sitemap.xml",
+      "statusCode": 301
+    },
+    {
+      "route": "/our_services.php",
+      "redirect": "/services",
+      "statusCode": 301
+    },
+    {
+      "route": "/software_development_services.php",
+      "redirect": "/services/software-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/enterprise_services.php",
+      "redirect": "/services/enterprise-mobility",
+      "statusCode": 301
+    },
+    {
+      "route": "/web_and_desktop_application.php",
+      "redirect": "/services/web-application-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/desktop_applications.php",
+      "redirect": "/services/web-application-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/web_2_application.php",
+      "redirect": "/services/web-application-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/open_source_development.php",
+      "redirect": "/services/web-application-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/app_development_and_maintenance.php",
+      "redirect": "/services/custom-application-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/application_product_migration.php",
+      "redirect": "Retrieving data. Wait a few seconds and try to cut or copy again.",
+      "statusCode": 301
+    },
+    {
+      "route": "/application_re-engineering_services.php",
+      "redirect": "/services/application-modernization",
+      "statusCode": 301
+    },
+    {
+      "route": "/performance_optimization.php",
+      "redirect": "/services/application-modernization",
+      "statusCode": 301
+    },
+    {
+      "route": "/cloud_computing.php",
+      "redirect": "/services/cloud-application-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/enterprise_integration_service.php",
+      "redirect": "/services/application-integration",
+      "statusCode": 301
+    },
+    {
+      "route": "/custom_firmware_development.php",
+      "redirect": "/services/embedded-product-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/custom_hardware_design.php",
+      "redirect": "/services/embedded-hardware-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/embedded_development.php",
+      "redirect": "/services/embedded-software-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/interface_and_protocol.php",
+      "redirect": "/services/embedded-software-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/system_software_development.php",
+      "redirect": "/services/embedded-software-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/device_driver_development.php",
+      "redirect": "/services/device-drivers-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/audio_multimedia_driver_development.php",
+      "redirect": "/services/device-drivers-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/network_and_wlan_driver_development.php",
+      "redirect": "/services/device-drivers-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/communication_driver_development.php",
+      "redirect": "/services/device-drivers-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/linux_device_driver_development.php",
+      "redirect": "/services/device-drivers-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/usb_device_driver_development.php",
+      "redirect": "/services/device-drivers-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/storage_driver_development.php",
+      "redirect": "/services/device-drivers-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/printer_driver_development.php",
+      "redirect": "/services/device-drivers-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/64bit_driver_migration.php",
+      "redirect": "/services/device-drivers-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/pci_pcie_pcix.php",
+      "redirect": "/services/device-drivers-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/mobile_application_development.php",
+      "redirect": "/services/mobile-app-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/windows_mobile_development.php",
+      "redirect": "/services/mobile-app-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/iphone_ipad_application_development.php",
+      "redirect": "/services/ios-app-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/android_application_development.php",
+      "redirect": "/services/android-apps-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/web_and_graphics_designing.php",
+      "redirect": "/services/ui-ux-design",
+      "statusCode": 301
+    },
+    {
+      "route": "/virtualization.php",
+      "redirect": "/services/devops",
+      "statusCode": 301
+    },
+    {
+      "route": "/resource_hiring.php",
+      "redirect": "/services/hire-dedicated-developers",
+      "statusCode": 301
+    },
+    {
+      "route": "/travel_booking_portal.php",
+      "redirect": "/industries/travel-hospitality",
+      "statusCode": 301
+    },
+    {
+      "route": "/business_ready_solutions.php",
+      "redirect": "/solutions",
+      "statusCode": 301
+    },
+    {
+      "route": "/audit_management_software.php",
+      "redirect": "/solutions/field-service-management-software",
+      "statusCode": 301
+    },
+    {
+      "route": "/human_resource_software.php",
+      "redirect": "/solutions/hr-management-software",
+      "statusCode": 301
+    },
+    {
+      "route": "/insurance_policy_administration.php",
+      "redirect": "/solutions/insurance-software",
+      "statusCode": 301
+    },
+    {
+      "route": "/web2print_solutions.php",
+      "redirect": "/solutions/web-to-print",
+      "statusCode": 301
+    },
+    {
+      "route": "/value_proposition.php",
+      "redirect": "/value-proposition",
+      "statusCode": 301
+    },
+    {
+      "route": "/why_outsource_to_radix.php",
+      "redirect": "/it-outsourcing-our-approach",
+      "statusCode": 301
+    },
+    {
+      "route": "/reviews",
+      "redirect": "/testimonials",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio",
+      "redirect": "/case-studies",
+      "statusCode": 301
+    },
+    {
+      "route": "/who_is_radix.php",
+      "redirect": "/about-us",
+      "statusCode": 301
+    },
+    {
+      "route": "/core_values.php",
+      "redirect": "/about-us",
+      "statusCode": 301
+    },
+    {
+      "route": "/talent_pool.php",
+      "redirect": "/about-us",
+      "statusCode": 301
+    },
+    {
+      "route": "/team.php",
+      "redirect": "/leadership",
+      "statusCode": 301
+    },
+    {
+      "route": "/team_profile.php",
+      "redirect": "/leadership",
+      "statusCode": 301
+    },
+    {
+      "route": "/calibrated_operations.php",
+      "redirect": "/our-infrastructure",
+      "statusCode": 301
+    },
+    {
+      "route": "/calibre.php",
+      "redirect": "/our-infrastructure",
+      "statusCode": 301
+    },
+    {
+      "route": "/work_culture.php",
+      "redirect": "/our-culture",
+      "statusCode": 301
+    },
+    {
+      "route": "/application_maintenance.php",
+      "redirect": "/services/application-maintenance",
+      "statusCode": 301
+    },
+    {
+      "route": "/flutter-app-development",
+      "redirect": "/services/flutter-app-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/ms_dynamics.php",
+      "redirect": "/microsoft-dynamics-365-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/sharepoint_services.php",
+      "redirect": "/microsoft-app-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/ms_azure_development.php",
+      "redirect": "/azure-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/amazon_web_services.php",
+      "redirect": "/aws-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/whql_testing_and_certification.php",
+      "redirect": "/services/whql-testing-certification",
+      "statusCode": 301
+    },
+    {
+      "route": "/board_support_package_development.php",
+      "redirect": "/services/bsp-os-porting",
+      "statusCode": 301
+    },
+    {
+      "route": "/php_mysql_development.php",
+      "redirect": "/hire-php-developer",
+      "statusCode": 301
+    },
+    {
+      "route": "/net_developer_services.php",
+      "redirect": "/hire-dot-net-developer",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/inside-out-marketing-solution",
+      "redirect": "/case-studies/inside-out-marketing-solution",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/online-training-portal",
+      "redirect": "/case-studies/online-training-portal",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/supplier-management-portal",
+      "redirect": "/case-studies/supplier-management-portal",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/recruitment-software-solution",
+      "redirect": "/case-studies/recruitment-software-solution",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/dynamic-webforms-solution",
+      "redirect": "/case-studies/dynamic-webforms-solution",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/online-apparel-store",
+      "redirect": "/case-studies/online-apparel-store",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/e-commerce-storefront",
+      "redirect": "/case-studies/e-commerce-storefront",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/lifestyle-shopping-platform",
+      "redirect": "/case-studies/lifestyle-shopping-platform",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/shopping-cart-system",
+      "redirect": "/case-studies/shopping-cart-system",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/audit-compliance-tools",
+      "redirect": "/case-studies/audit-compliance-tools",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/online-ordering-platform",
+      "redirect": "/case-studies/online-ordering-platform",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/kentico-e-commerce-solution",
+      "redirect": "/case-studies/kentico-e-commerce-solution",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/web-content-management",
+      "redirect": "/case-studies/web-content-management",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/commercial-cleaning-mobile-solution",
+      "redirect": "/case-studies/commercial-cleaning-mobile-solution",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/plastic-renewables-ecommerce-solution",
+      "redirect": "/case-studies/plastic-renewables-ecommerce-solution",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/incident-management-mobile-solution",
+      "redirect": "/case-studies/incident-management-mobile-solution",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/people-management-solution",
+      "redirect": "/case-studies/people-management-solution",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/vendors-profile-management-portal",
+      "redirect": "/case-studies/vendors-profile-management-portal",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/mobile-based-audit-solution",
+      "redirect": "/case-studies/mobile-based-audit-solution",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/feature-rich-cms",
+      "redirect": "/case-studies/feature-rich-cms",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/cardiac-scan-system",
+      "redirect": "/case-studies/cardiac-scan-system",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/lab-equipment-e-commerce-portal",
+      "redirect": "/case-studies/lab-equipment-e-commerce-portal",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/mobile-marketing-solution",
+      "redirect": "/case-studies/mobile-marketing-solution",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/cloud-based-recruitment-software",
+      "redirect": "/case-studies/cloud-based-recruitment-software",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/contractor-cms-website",
+      "redirect": "/case-studies/contractor-cms-website",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/human-resource-management-system",
+      "redirect": "/case-studies/human-resource-management-system",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/manufacturing-management-portal",
+      "redirect": "/case-studies/manufacturing-management-portal",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/debt-collection-software",
+      "redirect": "/case-studies/debt-collection-software",
+      "statusCode": 301
+    },
+    {
+      "route": "/portfolio/e-commerce-for-hs-manuals",
+      "redirect": "/case-studies/e-commerce-for-hs-manuals",
+      "statusCode": 301
+    },
+    {
+      "route": "/custom-software-application-development",
+      "redirect": "/start/custom-software-application-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/custom-software-thankyou",
+      "redirect": "/start/custom-software-thankyou",
+      "statusCode": 301
+    },
+    {
+      "route": "/hiring-dotnet-php-developers",
+      "redirect": "/start/hiring-dotnet-php-developers",
+      "statusCode": 301
+    },
+    {
+      "route": "/hire-remote-developers",
+      "redirect": "/start/hire-remote-developers",
+      "statusCode": 301
+    },
+    {
+      "route": "/hire-remote-developers-thankyou",
+      "redirect": "/start/hire-remote-developers-thankyou",
+      "statusCode": 301
+    },
+    {
+      "route": "/woocommerce-devlopment/",
+      "redirect": "/woocommerce-development",
+      "statusCode": 301
+    },
+    {
+      "route": "/current-opening/software-engineer-node-js",
+      "redirect": "/current-openings/software-engineer-node-js",
+      "statusCode": 301
+    },
+    {
+      "route": "/current-opening/software-engineer-vue-js",
+      "redirect": "/current-openings/software-engineer-vue-js",
+      "statusCode": 301
+    },
+    {
+      "route": "/current-opening/software-engineer-c-embedded-hardware",
+      "redirect": "/current-openings/software-engineer-c-embedded-hardware",
       "statusCode": 301
     },
     {
