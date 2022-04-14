@@ -7,7 +7,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "deploy": "npm install && npm run build && node app.js",
-    "webApp": "npm install && npm run build && cd dist && rm -rf assets"
+    "webApp": "npm install && npm run build && cd dist && rm -rf src/favicon"
   },
   "dependencies": {
     "vue": "^3.2.25"
