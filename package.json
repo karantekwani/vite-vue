@@ -7,7 +7,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "deploy": "npm install && npm run build && node app.js",
-    "webApp": "npm install && npm run build && cd dist && rm -rf src/favicon"
+    "webApp": "npm install && npm run build && cd dist && rm -rf  404 leadership"
   },
   "dependencies": {
     "line-reader": "^0.4.0",
