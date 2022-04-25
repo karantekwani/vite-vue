@@ -10,14 +10,17 @@
     "webApp": "npm install && npm run build && cd dist && rm -rf src/favicon"
   },
   "dependencies": {
+    "line-reader": "^0.4.0",
+    "string-similarity": "^4.0.4",
+    "turbodepot-node": "^7.0.1",
     "vue": "^3.2.25"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.2.0",
     "autoprefixer": "^10.4.2",
+    "express": "^4.17.3",
     "postcss": "^8.4.7",
     "tailwindcss": "^3.0.23",
-    "express": "^4.17.3",
     "vite": "^2.8.0"
   }
 }
